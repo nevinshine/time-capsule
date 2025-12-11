@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/capsules';
+const API_URL = '/api/capsules';
 const form = document.getElementById('capsuleForm');
 const list = document.getElementById('capsulesList');
 const submitBtn = document.getElementById('submitBtn');
