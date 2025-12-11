@@ -83,6 +83,7 @@ If you want to run this project on your own machine:
 ├── server.js           # Backend API & Database Connection
 ├── package.json        # Project Dependencies
 └── README.md           # Documentation
+```
 
 ---
 
@@ -94,4 +95,3 @@ This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this software as long as the original copyright notice and license are included. See the [LICENSE](LICENSE) file for more details.
 
----
