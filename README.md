@@ -84,6 +84,8 @@ If you want to run this project on your own machine:
 ├── package.json        # Project Dependencies
 └── README.md           # Documentation
 
+---
+
 ## 📄 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -91,3 +93,5 @@ If you want to run this project on your own machine:
 This project is licensed under the **MIT License**. 
 
 You are free to use, modify, and distribute this software as long as the original copyright notice and license are included. See the [LICENSE](LICENSE) file for more details.
+
+---
