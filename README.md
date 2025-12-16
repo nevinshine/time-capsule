@@ -82,7 +82,7 @@ If you want to run this project on your own machine:
 │   ├── app.js          # Frontend Logic (Fetch API)
 ├── server.js           # Backend API & Database Connection
 ├── package.json        # Project Dependencies
-└── README.md           # Documentation
+└── README.md           # Documentation File
 ```
 
 ---
